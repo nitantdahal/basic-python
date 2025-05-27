@@ -64,3 +64,9 @@ del fruitname
 fruitname = ["Cherry","Banana","Apple","Kiwi","Guava","Orange"] # add item at last of the list
 fruitname.clear()
 print(fruitname)
+
+fruitname = ["Cherry","Banana","Apple","Mango"]
+newlist = []
+for "a" in i:
+    newlist.append(i)
+    print(newlist)
