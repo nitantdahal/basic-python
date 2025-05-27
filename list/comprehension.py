@@ -1,9 +1,9 @@
-# fruitname = ["Cherry","Banana","apple","Mango"]
-# newlist = []
-# for i in fruitname:
-#     if "a" in i:
-#         newlist.append(i)
-# print(newlist)
+fruitname = ["Cherry","Banana","apple","Mango"]
+newlist = []
+for i in fruitname:
+    if "a" in i:
+        newlist.append(i)
+print(newlist)
 
 fruitname = ["Banana","Apple","Cherry"]
 for i in fruitname:
