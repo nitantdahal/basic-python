@@ -34,7 +34,7 @@ newlist = ["Cherry" for x in fruitname]
 print(newlist)
 
 fruitname = ["Banana","Apple","Cherry"]
-newlist = [x if x != "Banana" else "Orange" for x in fruitname]
+newlist = [x if x != "Banana" else "Apple" for x in fruitname]
 print(newlist)
 
 fruitname = ["Banana","Apple","Cherry"]
